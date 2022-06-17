@@ -1,0 +1,144 @@
+body{
+  
+    background-color: #619b9c;
+
+}
+h4{
+    color: #062c30;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 14px;
+}
+h3{
+    font-family: 'Tangerine', cursive;
+    font-size: 100px;
+    
+}
+h5{
+    color: #062c30;
+    margin-top: 30px;
+    margin-bottom: 14px;
+}
+
+p{
+    line-height: 2.1;
+    font-family: 'Roboto', sans-serif;
+}
+hr{
+    border: dotted #e9df98 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+    background-color: transparent;
+}
+.container-fluid{
+    background-color: #062c30;
+    
+}
+.navi{
+   
+   padding-top: 50px;
+    
+}
+
+.nav-link{
+    color: #619b9c;
+    font-family: 'Roboto', sans-serif;
+}
+.navi > img{
+    border-radius: 50%;
+    height: 90px;
+    width: 100px;
+    position: absolute;
+    margin-left: 30px;
+}
+.heading{
+    color: whitesmoke;
+    margin-top: 30px;
+    text-align: center;
+}
+.image{
+    height: 70px;
+    width: 80px;
+    position: relative;
+    margin-top: -160px;
+}
+.image1{
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+.image2{
+    height: 70px;
+    width: 80px;
+    margin-left: 1000px;
+    margin-top: 30px;
+    position: absolute;
+}
+.image3{
+    height: 70px;
+    width: 80px;
+    margin-left: 1000px;
+    margin-top: -145px;
+    margin-bottom: 30px;
+}
+.jay{
+    border-radius: 50%;
+    height: 140px;
+    width: 150px;
+    margin-top: 45px;
+    margin-left: 540px;
+}
+.aboutme {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.skil{
+    background-color: #2f686e;
+    width: 540px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-left: 350px;
+    border-radius: 15%;
+
+}
+.skill-img{
+    border-radius: 50%;
+    height: 140px;
+    width: 150px;
+    margin-top: 45px;
+    margin-left: 340px;
+    float: left;
+    position: relative;
+    margin-right: 50px;
+    
+   
+}
+.job{
+    text-align: left;
+    margin-bottom: 60px;
+    margin-right: 170px;
+    
+}
+.skill-imgs{
+    border-radius: 50%;
+    height: 170px;
+    width: 190px;
+    
+    float: right;
+    margin-right: 330px;
+    
+   
+}
+.dev{
+    text-align: left;
+    margin-bottom: 20px;
+    margin-left: 320px; 
+}
+.hobbies{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+

@@ -140,5 +140,73 @@ hr{
     margin-bottom: 20px;
     margin-top: 20px;
 }
-
+@media only screen and (max-width: 800px) {
+     .navi > img{
+        border-radius: 50%;
+        height: 70px;
+        width: 80px;
+        position: absolute;
+        margin-left: 40px;
+     }
+     .navbar{
+         padding-left: 10px;
+         font-size: 12px;
+     }
+     h3{
+         font-size: 80px;
+         padding-top: 20px;
+     }
+     h4, p{
+         text-align: center;
+         line-height: 1.8;
+         padding-bottom: 10px;
+     }
+     hr{
+        margin-bottom: 30px; 
+        margin-top: 30px;
+     }
+   
+     .jay{
+         margin-left: 100px;
+         margin-right: auto;
+     }
+     .skill-img{
+        float: none;
+        border-radius: 50%;
+        height: 190px;
+        width: 200px;
+        margin-top: 45px;
+        margin-left: 100px;
+        margin-right: 50px;
+    
+     }
+     .skill-imgs{
+        float: none;
+        border-radius: 50%;
+        height: 190px;
+        width: 200px;
+        margin-top: 45px;
+        margin-left: 100px; 
+        margin-right: 50px;
+     }
+    .dev{
+        text-align: center;
+        margin-left: 45px;
+        margin-right: 20px;
+    } 
+    .job{
+        margin-left: 45px;
+        margin-right: 20px;
+        text-align: center;
+    }
+    .skil{
+        background-color: #2f686e;
+        width: 340px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        margin-left: 10px;
+        border-radius: 15%;
+    
+    }
+}
 

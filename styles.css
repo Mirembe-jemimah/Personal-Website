@@ -146,7 +146,7 @@ hr{
         height: 70px;
         width: 80px;
         position: absolute;
-        margin-left: 20px;
+        margin-left: 10px;
      }
      .navbar{
          padding-left: 10px;
@@ -167,7 +167,7 @@ hr{
      }
    
      .jay{
-         margin-left: 100px;
+         margin-left: 125px;
          margin-right: auto;
      }
      .skill-img{
@@ -176,7 +176,7 @@ hr{
         height: 190px;
         width: 200px;
         margin-top: 45px;
-        margin-left: 100px;
+        margin-left: 112px;
         margin-right: 50px;
     
      }
@@ -186,7 +186,7 @@ hr{
         height: 190px;
         width: 200px;
         margin-top: 45px;
-        margin-left: 100px; 
+        margin-left: 112px; 
         margin-right: 50px;
      }
     .dev{
@@ -207,6 +207,10 @@ hr{
         margin-left: 50px;
         border-radius: 15%;
     
+    }
+    .skil > h4{
+        margin-top: 10px;
+        margin-bottom: 3px;
     }
     .image{
         height: 30px;
